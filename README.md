@@ -7,6 +7,8 @@ Your research result should include:
 - Founders
 - A one-sentence description of the business
 
+Ask the user which companies they are interested in researching.
+
 ## Available CLI
 
 ### How to browse the web
